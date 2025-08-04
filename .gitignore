@@ -1,0 +1,12 @@
+# Ignore Windows executables
+*.exe
+
+# Ignore generated graph images
+*.png
+
+# Ignore build files (if you create object files)
+*.o
+
+# Ignore Python cache
+__pycache__/
+*.pyc
