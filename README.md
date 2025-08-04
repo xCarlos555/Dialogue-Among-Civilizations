@@ -60,7 +60,7 @@ The `input.txt` file must contain:
 ## Output
 
 - Displays the initial relations matrix.
-- Processes possible dialogue sequences.
+- Processes the possible dialogue sequence.
 - Shows whether peace is achieved or not.
 - Generates two graph images:
   - **graph_initial.png** – initial relations.
