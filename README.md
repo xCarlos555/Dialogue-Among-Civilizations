@@ -28,12 +28,24 @@ pip install -r requirements.txt
 
 ### Compile
 
+**Windows**
+```bash
+gcc main.c -o dialogue.exe
+```
+
+**Linux/macOS**
 ```bash
 gcc main.c -o dialogue
 ```
 
 ### Run
 
+**Windows**
+```bash
+./dialogue.exe
+```
+
+**Linux/macOS**
 ```bash
 ./dialogue
 ```
