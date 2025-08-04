@@ -89,3 +89,11 @@ Graphs use:
 - **Green edges** for friendly relations.
 - **Red edges** for conflicts.
 - Edge labels display the numerical relationship values.
+
+### Example Output
+
+**Initial Graph**
+![Initial Graph](graph_initial.png)
+
+**Final Graph**
+![Final Graph](graph_final.png)
