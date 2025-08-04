@@ -240,7 +240,6 @@ int main() {
 
     free_matriz(&matriz);
 
-    // Apagar ficheiros temporários
     if (remove("initial_matrix.txt") != 0)
         perror("Error deleting initial_matrix.txt");
     if (remove("final_matrix.txt") != 0)
