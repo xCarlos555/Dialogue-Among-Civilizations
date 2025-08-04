@@ -48,3 +48,33 @@ The `input.txt` file must contain:
 ---
 
 ### Example Input
+```diff
+4
+0 10 -20 10
+10 0 30 5
+-20 30 0 -5
+10 5 -5 0
+```
+
+## Output
+
+- Displays the initial relations matrix.
+- Processes possible dialogue sequences.
+- Shows whether peace is achieved or not.
+- Generates two graph images:
+  - **graph_initial.png** – initial relations.
+  - **graph_final.png** – final relations after dialogue.
+
+---
+
+## Graph Visualization
+
+The project includes **Python scripts** to visualize relationships as graphs:
+
+- `gerar_grafo_inicial.py` generates the initial graph.
+- `gerar_grafo_final.py` generates the final graph.
+
+Graphs use:
+- **Green edges** for friendly relations.
+- **Red edges** for conflicts.
+- Edge labels display the numerical relationship values.
