@@ -1,1 +1,1 @@
-# Dialogue-Among-Civilizations
+# Dialogue Among Civilizations
