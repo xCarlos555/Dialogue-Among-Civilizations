@@ -92,8 +92,12 @@ Graphs use:
 
 ### Example Output
 
-**Initial Graph**
-![Initial Graph](graph_initial.png)
+<p align="center">
+  <strong>Initial Graph</strong><br>
+  <img src="graph_initial.png" alt="Initial Graph" width="400">
+</p>
 
-**Final Graph**
-![Final Graph](graph_final.png)
+<p align="center">
+  <strong>Final Graph</strong><br>
+  <img src="graph_final.png" alt="Final Graph" width="400">
+</p>
