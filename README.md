@@ -99,5 +99,5 @@ Graphs use:
 
 <p align="center">
   <strong>Final Graph</strong><br>
-  <img src="graph_final.png" alt="Final Graph" width="400">
+  <img src="graph_final.png" alt="Final Graph (Peace was achieved)" width="400">
 </p>
