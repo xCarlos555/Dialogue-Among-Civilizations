@@ -44,7 +44,7 @@ Ensure that the file **input.txt** is present in the same directory as the execu
 
 The `input.txt` file must contain:
 
-1. The number of civilizations **N**.
+1. The number of civilizations **N** (N ≤ 10).
 2. An **N x N** matrix representing the relationships between civilizations.
 
 ### Rules
