@@ -14,6 +14,16 @@ If no such sequence exists, the program states that **peace cannot be reached**.
 
 ---
 
+## Python Requirements
+
+Before compiling and running the program, make sure to install the required Python packages used for graph generation:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ## How to Compile and Run
 
 ### Compile
