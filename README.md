@@ -29,3 +29,22 @@ gcc main.c -o dialogue
 ```
 
 Ensure that the file **input.txt** is present in the same directory as the executable.
+
+## Input Format
+
+The `input.txt` file must contain:
+
+1. The number of civilizations **N**.
+2. An **N x N** matrix representing the relationships between civilizations.
+
+### Rules
+
+- The diagonal values must be `0`.
+- Matrix must be **symmetric**.
+- Values must be in the range `[-100, 100]`:
+  - **Positive values** = friendly relations.
+  - **Negative values** = conflicts.
+
+---
+
+### Example Input
