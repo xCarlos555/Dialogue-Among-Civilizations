@@ -70,7 +70,7 @@ The `input.txt` file must contain:
 ---
 
 ### Example Input
-```go
+```
 5
 0   30  -20   10  -10
 30   0   20   15  -5
@@ -104,7 +104,7 @@ Graphs use:
 
 ### Example Output
 
-```go
+```
 Initial relations between civilizations (5 civilizations):
   ===========================
     0    30   -20    10   -10 
