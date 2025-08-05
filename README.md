@@ -104,6 +104,8 @@ Graphs use:
 
 ### Example Output
 
+With a dialogue sequence (actions by Civilization 1): Civ 4 -> Civ 2
+
 <p align="center">
   <strong>Initial Graph</strong><br>
   <img src="graph_initial.png" alt="Initial Graph" width="400">
