@@ -86,7 +86,7 @@ The `input.txt` file must contain:
 - Shows whether peace is achieved or not.
 - Generates two graph images:
   - **graph_initial.png** – initial relations.
-  - **graph_final.png** – final relations after dialogue.
+  - **graph_final.png** – final relations after dialogue (the final graph is the same as the initial graph if peace is not achieved).
 
 ---
 
