@@ -2,7 +2,7 @@ import sys
 import matplotlib.pyplot as plt
 import networkx as nx
 
-file_name = sys.argv[1]  # recebe nome do ficheiro passado pelo C
+file_name = sys.argv[1]
 
 with open(file_name, "r") as f:
     linhas = f.readlines()
