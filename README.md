@@ -106,13 +106,13 @@ Graphs use:
 
 ```
 Initial relations between civilizations (5 civilizations):
-  ===========================
+--------------------------------------------------------
     0    30   -20    10   -10 
    30     0    20    15    -5 
   -20    20     0    25    10 
    10    15    25     0    20 
   -10    -5    10    20     0 
-  ===========================
+--------------------------------------------------------
 
 Graph saved as graph_initial.png
 
@@ -122,6 +122,8 @@ Processing dialogue sequences to check for possible peace...
 Peace achieved!
 With a dialogue sequence (actions by Civilization 1): Civ 4 -> Civ 2
 ====================
+
+Graph saved as graph_final.png
 ```
 <p align="center">
   <strong>Initial Graph</strong><br>
