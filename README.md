@@ -104,6 +104,15 @@ Graphs use:
 
 ### Example Output
 
+Initial relations between civilizations (5 civilizations):
+--------------------------------------------------------
+    0    30   -20    10   -10 
+   30     0    20    15    -5 
+  -20    20     0    25    10 
+   10    15    25     0    20 
+  -10    -5    10    20     0 
+--------------------------------------------------------
+
 With a dialogue sequence (actions by Civilization 1): Civ 4 -> Civ 2
 
 <p align="center">
