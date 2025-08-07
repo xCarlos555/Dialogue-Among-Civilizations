@@ -133,6 +133,6 @@ Graph saved as graph_final.png
 </p>
 
 <p align="center">
-  <strong>Final Graph (Peace achieved)</strong><br>
+  <strong>Final Graph (Peace reached)</strong><br>
   <img src="graph_final.png" alt="Final Graph (Peace achieved)" width="400">
 </p>
