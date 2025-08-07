@@ -28,6 +28,8 @@ pip install -r requirements.txt
 
 ### Compile
 
+Make sure you are in the project’s root folder to execute the following commands.
+
 **Windows**
 ```bash
 gcc main.c -o dialogue.exe
