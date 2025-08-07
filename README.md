@@ -26,9 +26,9 @@ pip install -r requirements.txt
 
 ## How to Compile and Run
 
-### Compile
-
 Make sure you are in the project’s root folder to execute the following commands.
+
+### Compile
 
 **Windows**
 ```bash
