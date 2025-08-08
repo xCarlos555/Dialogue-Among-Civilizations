@@ -2,7 +2,7 @@
 
 **Dialogue Among Civilizations** is an international relations theory introduced by Mohammad Khatami, former president of Iran. Its central idea is to promote universal dialogue between nations, aiming to transform conflicts into peaceful relations. (https://en.wikipedia.org/wiki/Dialogue_Among_Civilizations)
 
-In this project, this concept is modeled as a **weighted complete graph**, where: 
+In this project, this concept is modeled as a **weighted complete graph**, where:
 
 - **Vertices** represent civilizations or nations.
 - **Edge weights** represent the relationship level between two civilizations:
