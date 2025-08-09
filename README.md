@@ -35,21 +35,11 @@ Make sure you are in the project’s root folder to execute the following comman
 gcc main.c -o dialogue.exe
 ```
 
-**Linux/macOS**
-```bash
-gcc main.c -o dialogue
-```
-
 ### Run
 
 **Windows**
 ```bash
 ./dialogue.exe
-```
-
-**Linux/macOS**
-```bash
-./dialogue
 ```
 
 Ensure that the file **input.txt** is present in the same directory as the executable.
